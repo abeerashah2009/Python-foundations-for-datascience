@@ -1,0 +1,29 @@
+=== User Input Demonstration Evidence ===
+
+Test Input:
+Name: Abeera
+Age: 20
+Favorite Number: 9
+
+Program Output:
+
+=== User Input Collection ===
+
+Let's collect some information about you!
+Please enter your name: Abeera
+Hello, Abeera!
+Type of user_name: <class 'str'>
+
+Please enter your age: 20
+You entered: 20
+Type of user_age_str: <class 'str'>
+
+Enter your favorite number: 9
+Your favorite number is: 9
+Type: <class 'str'>
+
+Notice: All input() results are strings!
+
+Result:
+The program successfully collected string input from the user.
+Even numeric-looking input values were initially stored as strings.

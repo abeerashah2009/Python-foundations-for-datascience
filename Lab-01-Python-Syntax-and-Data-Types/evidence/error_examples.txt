@@ -1,0 +1,33 @@
+=== TEST 1: VALID INPUT ===
+=== Error Handling Demonstration ===
+
+Example 1: Successful Integer Conversion
+Enter an integer: Conversion successful!
+Value: 42
+Type: <class 'int'>
+
+Example 2: Float Conversion
+Enter a decimal number: Conversion successful!
+Value: 3.14
+Type: <class 'float'>
+
+Example 3: ValueError Handling
+ValueError occurs when a value has the correct general
+type but cannot be converted into the requested format.
+
+=== End of Error Handling Demo ===
+
+=== TEST 2: INVALID INPUT ===
+=== Error Handling Demonstration ===
+
+Example 1: Successful Integer Conversion
+Enter an integer: Error: The entered value is not a valid integer.
+
+Example 2: Float Conversion
+Enter a decimal number: Error: The entered value is not a valid number.
+
+Example 3: ValueError Handling
+ValueError occurs when a value has the correct general
+type but cannot be converted into the requested format.
+
+=== End of Error Handling Demo ===

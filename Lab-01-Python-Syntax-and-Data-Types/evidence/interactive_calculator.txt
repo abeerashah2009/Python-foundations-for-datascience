@@ -1,0 +1,19 @@
+=== Simple Calculator ===
+
+Let's perform some basic calculations!
+Enter the first number: Enter the second number: 
+Input Analysis:
+First input: 15.5 | Type: <class 'str'>
+After conversion: 15.5 | Type: <class 'float'>
+Second input: 4.2 | Type: <class 'str'>
+After conversion: 4.2 | Type: <class 'float'>
+
+Calculation Results:
+15.5 + 4.2 = 19.7
+15.5 - 4.2 = 11.3
+15.5 * 4.2 = 65.10000000000001
+15.5 / 4.2 = 3.6904761904761902
+
+Type Conversion of Results:
+Addition as integer: 19
+Addition as string: 19.7

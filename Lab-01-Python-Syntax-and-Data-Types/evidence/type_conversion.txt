@@ -1,0 +1,22 @@
+=== Type Conversion Examples ===
+
+Original string: 25 | Type: <class 'str'>
+Converted to int: 25 | Type: <class 'int'>
+
+Original string: 19.99 | Type: <class 'str'>
+Converted to float: 19.99 | Type: <class 'float'>
+
+Original integer: 95 | Type: <class 'int'>
+Converted to string: 95 | Type: <class 'str'>
+
+Original float: 3.87 | Type: <class 'float'>
+Converted to int: 3 | Type: <class 'int'>
+Note: Decimal part is truncated, not rounded!
+
+Boolean Conversion Examples:
+int(True): 1
+int(False): 0
+bool(1): True
+bool(0): False
+bool('Hello'): True
+bool(''): False

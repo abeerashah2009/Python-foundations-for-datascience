@@ -1,0 +1,16 @@
+=== Variable Naming Examples ===
+
+Valid variable examples:
+first_name: John
+last_name: Smith
+age_in_years: 25
+course_code_2024: CS101
+_private_variable: hidden
+
+Multiple assignment:
+x = 10 | Type: <class 'int'>
+y = 20.5 | Type: <class 'float'>
+z = Hello | Type: <class 'str'>
+
+Same value assignment:
+a = 100 | b = 100 | c = 100

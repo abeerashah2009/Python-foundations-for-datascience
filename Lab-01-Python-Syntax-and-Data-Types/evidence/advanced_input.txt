@@ -1,0 +1,32 @@
+=== Advanced Input Handling Evidence ===
+
+Test Input:
+Student Name: Abeera
+Student ID: 12345
+Email Address: abeera@example.com
+Course: IT
+Semester: Fall
+Full-Time Student: yes
+
+Program Output:
+
+=== Advanced Input Handling ===
+
+Student Registration System
+------------------------------
+
+Registration Summary:
+Name: Abeera
+ID: 12345
+Email: abeera@example.com
+
+Course Information:
+Selected Course: IT
+Semester: Fall
+
+Full-time status: yes
+Type: <class 'str'>
+
+Result:
+The program successfully collected multiple pieces of user information.
+The yes/no response is also stored as a string because input() returns strings.

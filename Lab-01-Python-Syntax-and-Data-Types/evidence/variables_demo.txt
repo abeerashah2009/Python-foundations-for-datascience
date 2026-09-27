@@ -1,0 +1,15 @@
+=== Python Data Types Demonstration ===
+
+Student Age: 20
+Type of student_age: <class 'int'>
+
+Student GPA: 3.75
+Type of student_gpa: <class 'float'>
+
+Student Name: Alice Johnson
+Type of student_name: <class 'str'>
+
+Is Enrolled: True
+Type of is_enrolled: <class 'bool'>
+
+=== End of Data Types Demo ===

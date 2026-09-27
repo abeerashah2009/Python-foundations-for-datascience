@@ -1,0 +1,22 @@
+=== Student Grade Calculator ===
+
+Student name: Student ID: Course name: 
+Enter assessment scores from 0 to 100.
+
+Quiz 1: Quiz 2: Midterm: Final: Project: 
+=== Grade Report ===
+Student Name: Sarah Johnson
+Student ID: 12345
+Course: Introduction to Python
+
+Quiz 1: 85.0
+Quiz 2: 92.0
+Midterm: 78.0
+Final: 88.0
+Project: 95.0
+
+Weighted Final Score: 87.50
+Letter Grade: B
+Passing Status: True
+
+=== End of Grade Report ===

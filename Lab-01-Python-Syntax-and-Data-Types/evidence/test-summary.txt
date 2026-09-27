@@ -1,0 +1,43 @@
+=== Lab 1 Testing Summary ===
+
+Python Version:
+Python 3.12.3
+
+Git Version:
+git version 2.43.0
+
+Syntax Check:
+python3 -m py_compile *.py
+
+Result:
+All Python scripts passed the syntax compilation check successfully.
+
+Scripts Tested:
+1. variables_demo.py
+2. variable_naming.py
+3. user_input_demo.py
+4. advanced_input.py
+5. type_conversion.py
+6. interactive_calculator.py
+7. operations_demo.py
+8. grade_calculator.py
+9. error_examples.py
+
+Input Testing:
+- User input tested with Abeera, age 20, favorite number 9.
+- Advanced registration input tested with Abeera, ID 12345, IT, Fall, yes.
+- Calculator tested with 15.5 and 4.2.
+- Grade calculator tested with Sarah Johnson and assessment scores.
+- Error handling tested with both valid and invalid input.
+
+Error Handling:
+Valid integer and float conversions completed successfully.
+Invalid integer and float inputs were handled using ValueError.
+
+Important Python Behavior:
+input() returns strings by default.
+bool("") returns False.
+bool("0") returns True because "0" is a non-empty string.
+
+Lab Result:
+All Lab 1 Python scripts were created, executed, tested, and documented successfully.
